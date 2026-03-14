@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <nome>Áries</nome>
+        <simbolo>♈</simbolo>
+        <inicio>03-21</inicio>
+        <fim>04-19</fim>
+        <elemento>Fogo</elemento>
+        <descricao>Ariano é corajoso, determinado e confiante. Lider nato, age com entusiasmo e energia em tudo que faz. Pode ser impulsivo, mas sua coragem o leva longe.</descricao>
+    </signo>
+    <signo>
+        <nome>Touro</nome>
+        <simbolo>♉</simbolo>
+        <inicio>04-20</inicio>
+        <fim>05-20</fim>
+        <elemento>Terra</elemento>
+        <descricao>Taurino é paciente, confiável e prático. Aprecia a estabilidade, o conforto e as coisas boas da vida. Muito dedicado e leal às pessoas que ama.</descricao>
+    </signo>
+    <signo>
+        <nome>Gêmeos</nome>
+        <simbolo>♊</simbolo>
+        <inicio>05-21</inicio>
+        <fim>06-20</fim>
+        <elemento>Ar</elemento>
+        <descricao>Geminiano é curioso, adaptável e comunicativo. Adora aprender coisas novas e se conectar com pessoas diferentes. Versátil e sempre pronto para um bom papo.</descricao>
+    </signo>
+    <signo>
+        <nome>Câncer</nome>
+        <simbolo>♋</simbolo>
+        <inicio>06-21</inicio>
+        <fim>07-22</fim>
+        <elemento>Água</elemento>
+        <descricao>Canceriano é intuitivo, emocional e protetor. Muito ligado à família e ao lar, oferece cuidado e afeto a quem está ao seu redor. Sensível e empático.</descricao>
+    </signo>
+    <signo>
+        <nome>Leão</nome>
+        <simbolo>♌</simbolo>
+        <inicio>07-23</inicio>
+        <fim>08-22</fim>
+        <elemento>Fogo</elemento>
+        <descricao>Leonino é criativo, apaixonado e generoso. Ama ser o centro das atenções e tem um coração enorme. Natural nas artes e na liderança, irradia carisma.</descricao>
+    </signo>
+    <signo>
+        <nome>Virgem</nome>
+        <simbolo>♍</simbolo>
+        <inicio>08-23</inicio>
+        <fim>09-22</fim>
+        <elemento>Terra</elemento>
+        <descricao>Virginiano é analítico, organizado e dedicado. Atenção aos detalhes é sua marca registrada. Sempre busca a perfeição e é extremamente confiável.</descricao>
+    </signo>
+    <signo>
+        <nome>Libra</nome>
+        <simbolo>♎</simbolo>
+        <inicio>09-23</inicio>
+        <fim>10-22</fim>
+        <elemento>Ar</elemento>
+        <descricao>Libriano é diplomático, justo e sociável. Busca equilíbrio e harmonia em tudo. Apreciador das artes e da beleza, tem grande senso estético.</descricao>
+    </signo>
+    <signo>
+        <nome>Escorpião</nome>
+        <simbolo>♏</simbolo>
+        <inicio>10-23</inicio>
+        <fim>11-21</fim>
+        <elemento>Água</elemento>
+        <descricao>Escorpiano é intenso, determinado e perspicaz. Possui grande força emocional e intuição aguçada. Leal e apaixonado, vai fundo em tudo que decide fazer.</descricao>
+    </signo>
+    <signo>
+        <nome>Sagitário</nome>
+        <simbolo>♐</simbolo>
+        <inicio>11-22</inicio>
+        <fim>12-21</fim>
+        <elemento>Fogo</elemento>
+        <descricao>Sagitariano é otimista, aventureiro e filosófico. Ama a liberdade e a busca pelo conhecimento. Sempre enxerga o lado positivo da vida e inspira quem está ao redor.</descricao>
+    </signo>
+    <signo>
+        <nome>Capricórnio</nome>
+        <simbolo>♑</simbolo>
+        <inicio>12-22</inicio>
+        <fim>01-19</fim>
+        <elemento>Terra</elemento>
+        <descricao>Capricorniano é ambicioso, disciplinado e responsável. Trabalha duro para alcançar seus objetivos e raramente desiste. Muito confiável e focado no longo prazo.</descricao>
+    </signo>
+    <signo>
+        <nome>Aquário</nome>
+        <simbolo>♒</simbolo>
+        <inicio>01-20</inicio>
+        <fim>02-18</fim>
+        <elemento>Ar</elemento>
+        <descricao>Aquariano é inovador, independente e humanitário. Pensa fora da caixa e se preocupa com o bem coletivo. Original e progressista, sempre à frente do seu tempo.</descricao>
+    </signo>
+    <signo>
+        <nome>Peixes</nome>
+        <simbolo>♓</simbolo>
+        <inicio>02-19</inicio>
+        <fim>03-20</fim>
+        <elemento>Água</elemento>
+        <descricao>Pisciano é compassivo, artístico e intuitivo. Muito empático, absorve as emoções ao redor. Criativo e sonhador, tem uma conexão profunda com o mundo espiritual.</descricao>
+    </signo>
+</signos>

@@ -1,0 +1,31 @@
+body {
+    background-color: #f4f6fb;
+    font-family: 'Segoe UI', sans-serif;
+    min-height: 100vh;
+}
+
+.card {
+    transition: transform 0.2s ease;
+}
+
+.card:hover {
+    transform: translateY(-4px);
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #6c63ff, #a78bfa);
+    border: none;
+}
+
+.btn-primary:hover {
+    background: linear-gradient(135deg, #5a52e0, #8b6ff5);
+}
+
+input[type="date"] {
+    cursor: pointer;
+}
+
+.navbar-brand {
+    font-size: 1.2rem;
+    letter-spacing: 0.5px;
+}
